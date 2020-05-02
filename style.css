@@ -1,0 +1,415 @@
+.icon {
+    display: inline-block;
+    padding: 0px 5px;
+}
+
+.icon-div {
+    background-color: dodgerblue;
+    height: 30px;
+    padding: 1px 0px 20px ;
+}
+
+#line {
+    padding: 0px 0px 20px 10em;
+    color: white;
+}
+
+#button {
+    padding-left: 5em;
+}
+
+#button2 {
+    padding-left: 5em;
+}
+
+#button3 {
+    padding-left: 6em;
+}
+
+
+.button {
+    border: 1px solid green;
+    background-color: white;
+    height: 25px;
+    color: green;
+}
+
+#button_1 {
+    position: absolute;
+    top: 23px;
+}
+
+#button_2 {
+    position: absolute;
+    top: 23px;
+}
+
+#button_3 {
+    position: absolute;
+    top: 23px;
+}
+
+#div2 {
+    background-color: white;
+    height: 69px;
+}
+
+#image_saylani {
+    width: 12em ;
+    position: relative;
+    left: 3em;
+    top: 10px;
+}
+#div2button1 {
+    color: white;
+    border: transparent;
+    background-color: dodgerblue;
+    position: relative;
+    left: 25em;
+    bottom: 1em;
+    border-radius: 30px;
+    width: 5em;
+    height: 2em;
+    font-weight: bold;
+}
+
+#div2button2 {
+    background-color: white;
+    border: transparent;
+    position: relative;
+    bottom: 1em;
+    left: 26em;
+    width: 5em;
+    height: 2em;
+    font-weight: bold;
+}
+
+#div2button3 {
+    background-color: white;
+    border: transparent;
+    position: relative;
+    bottom: 1em;
+    left: 27em;
+    width: 5em;
+    height: 2em;
+    font-weight: bold;
+}
+
+#div2button4 {
+    background-color: white;
+    border: transparent;
+    position: relative;
+    bottom: 1em;
+    left: 32em;
+    width: 5em;
+    height: 2em;
+    font-weight: bold;
+}
+
+#div2button5 {
+    background-color: white;
+    border: transparent;
+    position: relative;
+    bottom: 1em;
+    left: 37em;
+    width: 5em;
+    height: 2em;
+    font-weight: bold;
+}
+
+#div2button6 {
+    background-color: white;
+    border: transparent;
+    position: relative;
+    bottom: 1em;
+    left: 38em;
+    width: 5em;
+    height: 2em;
+    font-weight: bold;
+}
+
+#div2button7 {
+    background-color: white;
+    border: transparent;
+    position: relative;
+    bottom: 1em;
+    left: 40em;
+    width: 5em;
+    height: 2em;
+    font-weight: bold;
+}
+
+.button-colour:active {
+    background-color: dodgerblue;
+}
+
+#div3 {
+    background-color: dodgerblue;
+    color: white;
+    height: 2em;
+    width: 1200px;
+    margin-left: 3em ;
+}
+
+#p1 {
+    position: relative;
+    top: 7px;
+}
+
+.sub_heading {
+    display: inline-block;
+    margin-top: 2em;
+}
+
+#h1 {
+    color: dodgerblue;
+}
+
+#h2 {
+    color: forestgreen;
+}
+
+.paragrah {
+    width: 1000px;
+    padding-left: 9em;
+    opacity: 0.65;
+    text-align: justify;
+    line-height: 25px;
+}
+
+#div_five {
+    background-color: blue;
+    height: 300px;
+    
+}
+
+#image_1 {
+    position: relative;
+    top: 4em;
+    left: 12em;
+}
+
+#food {
+    color: white;
+    font-size: 50px;
+    position: relative;
+    top: 35px;
+    left: 130px;
+}
+
+#food_p {
+    color: white;
+    display: inline-block;
+    position: relative;
+    left: 70px;
+}
+
+#food_h {
+    color: lime;
+    display: inline-block;
+    position: relative;
+    left: 70px;
+}
+
+#image_2 {
+    position: relative;
+    bottom: 105px;
+    left: 230px;
+}
+
+#family {
+    color: white;
+    font-size: 50px;
+    position: relative;
+    bottom: 150px;
+    left: 470px;
+}
+
+#family_p {
+    color: white;
+    display: inline-block;
+    position: relative;
+    bottom: 179px;
+    left: 400px;
+}
+
+#family_h {
+    color: lime;
+    position: relative;
+    left: 545px;
+    bottom: 235px;
+}
+
+#image_3 {
+    position: relative;
+    bottom: 400px;
+    left: 800px;
+}
+
+#medical {
+    color: white;
+    font-size: 50px;
+    position: relative;
+    bottom: 430px;
+    left: 750px;
+}
+
+#medical_p {
+    color: white;
+    position: relative;
+    bottom:445px;
+    left: 720px;
+}
+
+#medical_h {
+    color: lime;
+    position: relative;
+    bottom:485px;
+    left: 795px;
+}
+
+#image_4 {
+    position: relative;
+    bottom: 645px;
+    left: 1060px;
+}
+
+#education {
+    position: relative;
+    font-size: 50px;
+    color: white;
+    bottom: 680px;
+    left: 1000px;
+}
+
+#education_p {
+    color: white;
+    position: relative;
+    bottom: 690px;
+    left: 980px;
+}
+
+#education_h {
+    color: lime;
+    position: relative;
+    bottom: 730px;
+    left: 1075px;
+}
+
+#sec_sub_h_1 {
+    display: inline-block;
+    color: dodgerblue;
+}
+
+#sec_sub_h_2 {
+    display: inline-block;
+    color: forestgreen;
+}
+
+.image_div {
+    display: inline-block;
+    margin-top: 5em;
+    width: 20em;
+    height: 15em;
+    margin-left: 5em;
+    padding-top: 2em;
+    box-shadow: 1px 1px 8px gray;
+}
+
+.i_heading {
+    color: blue;
+    font-size: 100%;
+}
+
+#hr {
+    margin-top: 5em;
+}
+
+.colour {
+    color: blue;
+}
+
+.part {
+    display: inline-block;
+    width: 20em;
+    box-shadow: 1px 1px 8px gray;
+}
+
+#margin {
+    margin-left: 3em;
+}
+
+.part2 {
+    display: inline-block;
+    position: relative;
+    top: 7em;
+    right: 43.5em;
+    width: 20em;
+    box-shadow: 1px 1px 8px gray;
+}
+
+.part3 {
+    display: inline-block;
+    position: relative;
+    top: 3.5em;
+    left: 23.5em;
+    width: 20em;
+    box-shadow: 1px 1px 8px gray;
+}
+
+#up_colour {
+    color: blue;
+}
+
+#event {
+    width: 20em;
+    text-align: justify;
+    position: relative;
+    left: 57em;
+    bottom: 10em;
+    box-shadow: -3px 0px 2px gray;
+}
+
+#image_blue {
+    color: dodgerblue;
+    display: inline-block;
+}
+
+#gallery_green {
+    color: forestgreen;
+    display: inline-block;
+}
+
+.width {
+    width: 15em;
+    margin-top: 5em;
+}
+
+#d_colour {
+    background-color: darkslategray;
+    margin-top: 5em;
+}
+
+#d_9 {
+    padding-top: 5em;
+    padding-left: 4em;
+    padding-bottom: 3em;
+}
+
+#h2_c {
+    color: white;
+    position: relative;
+    left: 35em;
+}
+
+#icon_d {
+    position: relative;
+    left: 52.5em;
+}
+
+#d_ten {
+    background-color: dodgerblue;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 3em;
+}
