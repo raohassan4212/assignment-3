@@ -7,7 +7,296 @@
     background-color: dodgerblue;
     height: 30px;
     padding: 1px 0px 20px ;
+
 }
+
+/* media query for first div */
+
+@media only screen and (max-width: 1270px) {
+  .icon {
+      padding: 0px 3px;
+  }
+}
+
+@media only screen and (max-width: 1250px) {
+    .icon {
+        padding: 0px 2px;
+    }
+  }
+  
+  @media only screen and (max-width: 1230px) {
+    .icon {
+        padding: 0px 1px;
+    }
+  }
+
+ @media only screen and (max-width: 1225px) {
+
+    .icon {
+        padding: 0px 0px;
+    }
+ }
+
+ @media only screen and (max-width: 1210px) {
+
+    .icon-div {
+        height: 4em;
+    }
+
+    #button3 {
+       position: absolute;
+       top: 2.5em;
+       left: 810px;
+        
+    }
+ }
+
+ @media only screen and (max-width: 1103px) {
+     #button {
+         position: absolute;
+         top: 2.5em;
+         left: 23em;
+        } 
+
+        #button2 {
+            position: absolute;
+            top: 2.5em;
+            left: 28em;
+            width: 4em;
+           } 
+
+           #button3 {
+            position: absolute;
+            top: 2.5em;
+            left: 33em;
+
+           } 
+    }
+
+    @media only screen and (max-width: 850px) {
+    
+
+        .icon-div {
+            height: 6em;
+        }
+
+        #button {
+            position: absolute;
+            top: 4em;
+            left: 12em;
+           } 
+   
+           #button2 {
+               position: absolute;
+               top: 4em;
+               left: 17em;
+               width: 4em;
+              } 
+   
+              #button3 {
+               position: absolute;
+               top: 4em;
+               left: 22em;
+   
+              } 
+
+              #line {
+                  position: relative;
+                  top: 1.5em;
+                  right: 11em;
+              }
+
+    }
+
+
+    @media only screen and (max-width: 570px) {
+        #button3 {
+            position: absolute;
+            top: 1.5em;
+            left: 16em;
+        }
+    }
+
+    @media only screen and (max-width: 470px) {
+        #button3 {
+            position: absolute;
+            top: 0em;
+            left: 6em;
+        }
+    }
+
+    @media only screen and (max-width: 460px) {
+        #button2 {
+            position: absolute;
+            top: 2em;
+            left: 7em;
+        }
+
+        .icon-div {
+            height: 9em;
+        }
+    }
+
+    @media only screen and (max-width: 370px) {
+        #button {
+            position: absolute;
+            top: 4em;
+            left: 7em;
+        }
+
+        .icon-div {
+            height: 10em;
+        }
+    }
+
+
+
+
+    /* image */
+
+
+    @media only screen and (max-width: 1290px) {
+        #img {
+            width: 1290px;
+        }
+    }
+
+
+    @media only screen and (max-width: 1280px) {
+        #img {
+            width: 1250px;
+        }
+    }
+
+
+    @media only screen and (max-width: 1170px) {
+        #img {
+            width: 1140px;
+        }
+    }
+
+
+    @media only screen and (max-width: 1080px) {
+        #img {
+            width: 1050px;
+        }
+    }
+
+    @media only screen and (max-width: 1020px) {
+        #img {
+            width: 1000px;
+        }
+    }
+
+    @media only screen and (max-width: 990px) {
+        #img {
+            width: 970px;
+        }
+    }
+
+
+    @media only screen and (max-width: 950px) {
+        #img {
+            width: 930px;
+        }
+    }
+
+    @media only screen and (max-width: 910px) {
+        #img {
+            width: 890px;
+        }
+    }
+
+    @media only screen and (max-width: 890px) {
+        #img {
+            width: 860px;
+        }
+    }
+
+    @media only screen and (max-width: 850px) {
+        #img {
+            width: 830px;
+        }
+    }
+
+    @media only screen and (max-width: 810px) {
+        #img {
+            width: 780px;
+        }
+    }
+
+    @media only screen and (max-width: 760px) {
+        #img {
+            width: 730px;
+        }
+    }
+
+    @media only screen and (max-width: 710px) {
+        #img {
+            width: 690px;
+        }
+    }
+
+    @media only screen and (max-width: 660px) {
+        #img {
+            width: 640px;
+        }
+    }
+
+    @media only screen and (max-width: 610px) {
+        #img {
+            width: 580px;
+        }
+    }
+
+    @media only screen and (max-width: 550px) {
+        #img {
+            width: 520px;
+        }
+    }
+
+    @media only screen and (max-width: 500px) {
+        #img {
+            width: 480px;
+        }
+    }
+
+    @media only screen and (max-width: 450px) {
+        #img {
+            width: 430px;
+        }
+    }
+
+    @media only screen and (max-width: 410px) {
+        #img {
+            width: 380px;
+        }
+    }
+
+    @media only screen and (max-width: 370px) {
+        #img {
+            width: 340px;
+        }
+    }
+
+    @media only screen and (max-width: 330px) {
+        #img {
+            width: 305px;
+        }
+    }
+
+    /* line */
+    
+
+
+    @media only screen and (max-width: 1200px) {
+        #p1 {
+            width: 700px;
+            text-align: justify;
+        }
+    }
+
+
 
 #line {
     padding: 0px 0px 20px 10em;
